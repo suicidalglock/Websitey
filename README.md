@@ -1,2 +1,2 @@
 # Websitey
-website
+This is a chat-gpt coded website lmao
